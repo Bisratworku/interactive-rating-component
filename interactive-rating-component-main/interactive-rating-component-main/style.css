@@ -107,7 +107,10 @@ footer button:hover{
     background-color: hsl(0, 0%, 100%);
     color: hsl(25, 97%, 53%) ;
 }
-
+.change-color{
+    background-color: hsl(217, 12%, 63%);
+    color: hsl(0, 0%, 100%);
+}
 
 
 
